@@ -279,23 +279,23 @@ users = [
 stars = [
   {
     user_id: 1,
-    article_id: 1
+    article_id: 81
   },
   {
     user_id: 1,
-    article_id: 2
+    article_id: 82
   },
   {
     user_id: 1,
-    article_id: 3
+    article_id: 83
   },
   {
     user_id: 1,
-    article_id: 4
+    article_id: 84
   },
   {
     user_id: 1,
-    article_id: 5
+    article_id: 85
   }
 ]
 

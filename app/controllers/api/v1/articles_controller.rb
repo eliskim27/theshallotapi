@@ -6,3 +6,14 @@ class Api::V1::ArticlesController < ApplicationController
     end
 
 end
+
+
+# this.setState(updateState)
+
+# updateState = () => {
+#     let wantedUser = this.state.users.find()
+
+#     let updatedUser = 
+
+
+# }
